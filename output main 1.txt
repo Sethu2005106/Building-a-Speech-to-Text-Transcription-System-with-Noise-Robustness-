@@ -1,0 +1,3 @@
+PS D:\gemini voice>  & 'c:\Users\rseth\AppData\Local\Programs\Python\Python312\python.exe' 'c:\Users\rseth\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '58891' '--' 'D:\gemini voice\main1.py'
+Say Something
+recognizer text : hi hello
